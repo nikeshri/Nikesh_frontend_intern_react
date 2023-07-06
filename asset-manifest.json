@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nikesh_frontend_intern_react/static/css/main.0b17f65f.css",
+    "main.js": "/Nikesh_frontend_intern_react/static/js/main.d81b9fca.js",
+    "index.html": "/Nikesh_frontend_intern_react/index.html",
+    "main.0b17f65f.css.map": "/Nikesh_frontend_intern_react/static/css/main.0b17f65f.css.map",
+    "main.d81b9fca.js.map": "/Nikesh_frontend_intern_react/static/js/main.d81b9fca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b17f65f.css",
+    "static/js/main.d81b9fca.js"
+  ]
+}
