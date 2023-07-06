@@ -7,6 +7,8 @@ Npm install
 
 Npm start
 
+Please the online store button for product!!!!!
+
 IDE used:
 
 Vs-code
